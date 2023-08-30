@@ -1,14 +1,13 @@
-
-
-
-# My Self: Vetrivel M
+# My Self: Vetrivel
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+all+👋,+I'm+Vetrivel+M;+An+Software+Engineer+;An+UX+Designer+;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+all+👋,+I'm+Vetrivel+M;An+Software+Engineer+;An+UX+Designer+;">
 </p>
  🔹 Final year CSE student at R.M.K.Engineering College <br><br> 🔹 Eager to contribute my technical skills and creativity to real-world projects. Enthusiastic about exploring new technologies and staying updated with industry trends. Committed to continuous learning and excited to embark on a journey in the world of technology.<br><br>
 
 ## Socials:
-[![Instagram](https://www.instagram.com/vetrivel_msvm07/)] [![LinkedIn](https://www.linkedin.com/in/vetrivel-m-667379247/)] [![Twitter](https://twitter.com/Vetrivel_msvm07)]
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vetrivel_msvm07/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vetrivel-m-667379247/) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Vetrivel_msvm07) 
 
   <br/>
   <div>
@@ -51,25 +50,25 @@
 
 <div align="center">
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictorVijayprasad&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vetrivel07&theme=github_dark)
   
 <br/>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VictorVijayprasad&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VictorVijayprasad&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vetrivel07&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vetrivel07&theme=github_dark)
   
 <br/>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VictorVijayprasad&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VictorVijayprasad&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vetrivel07&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vetrivel07&theme=github_dark)
   
 <br/>
 
-[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorVijayprasad&layout=compact&theme=radical)]
+[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vetrivel07&layout=compact&theme=radical)]
   
 <br/>
 
-![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorVijayprasad&show_icons=true&theme=radical)
+![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vetrivel07&show_icons=true&theme=radical)
   
 <br/>
   
@@ -77,6 +76,6 @@
 
 **Visitors Count** 
 
-![VisitorCount](https://profile-counter.glitch.me/{VictorVijayprasad}/count.svg) </div>
+![VisitorCount](https://profile-counter.glitch.me/{Vetrivel07}/count.svg) </div>
 
 
