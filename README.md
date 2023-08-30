@@ -27,8 +27,6 @@
  <p  align="center">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25"/>
   &nbsp;
-   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="25"/>
-  &nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25"/>
   &nbsp;
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25"/>  
@@ -49,11 +47,7 @@
 
 <div align="center" width=100%>
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=VictorVijayprasad&theme=prussian&hide_border=true&include_all_commits=true&count_private=false)<br/> -->
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorVijayprasad&theme=prussian&hide_border=true&include_all_commits=true&count_private=false&layout=compact) -->
-### Leetcode  I Solved
-![LeetCode Stats](https://leetcard.jacoblin.cool/VIJAYPRASAD?theme=nord&animation=true&font=Roboto%20Mono)]
-</div>
+
 
 ### Git Activity
 
