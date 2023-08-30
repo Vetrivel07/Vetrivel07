@@ -14,11 +14,7 @@
   <div>
 𝐒𝐭𝐚𝐜𝐤𝐬 𝐈 𝐰𝐨𝐫𝐤 𝐰𝐢𝐭𝐡:
 
- 
-<p  align="center">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25"/>  
-  </p>
-  
+
 <p  align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
   &nbsp;
