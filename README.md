@@ -1,4 +1,4 @@
-# My Self: Vetrivel
+# My Self: Vetrivel M
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+all+👋,+I'm+Vetrivel+M;An+Software+Engineer+;An+UX+Designer+;">
 </p>
