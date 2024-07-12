@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+all+👋,+I'm+Vetrivel+M;An+Software+Engineer+;">
 </p>
- 🔹 Final year CSE student 🎓 at R.M.K.Engineering College <br><br> 🔹 Eager to contribute my technical skills and creativity to real-world projects. Enthusiastic about exploring new technologies and staying updated with industry trends. Committed to continuous learning and excited to embark on a journey in the world of technology.<br><br> 
+ 🔹 Computer Science and Engineering graduate 🎓 at R.M.K.Engineering College <br><br> 🔹 Eager to contribute my technical skills and creativity to real-world projects. Enthusiastic about exploring new technologies and staying updated with industry trends. Committed to continuous learning and excited to embark on a journey in the world of technology.<br><br> 
  <p  align="center">  L👀k at my portfolio 👉 https://vetrivel07.github.io/vetrivel-m-portfolio 
    <br><br></p>
 
