@@ -1,8 +1,12 @@
 ![Black Creative Professional Photographer Online Portfolio](https://github.com/user-attachments/assets/ddfd13af-0c95-45de-944e-91ee32e6c765)
 
- 🔹 Computer Science and Engineering graduate 🎓 at R.M.K.Engineering College <br> 🔹 Eager to contribute my technical skills and creativity to real-world projects. <br> 🔹 Enthusiastic about exploring new technologies and staying updated with industry trends. <br> 🔹Committed to continuous learning and excited to embark on a journey in the world of technology.<br><br> 
- <p  align="center">  L👀k at my portfolio 👉 https://vetrivel07.github.io/vetrivel-m-portfolio 
-   <br><br></p>
+## About me:
+ 🎓 Computer Science and Engineering graduate at R.M.K.Engineering College <br> 
+ 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity. <br>
+ ✍️ Eager to contribute my technical skills and creativity to real-world projects. <br> 
+ ✨ Enthusiastic about exploring new technologies and staying updated with industry trends. <br> 
+ 💭 Committed to continuous learning and excited to embark on a journey in the world of technology.<br><br> 
+ 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.<br>
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/irtev_m_07/) 
