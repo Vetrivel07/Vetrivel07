@@ -65,6 +65,33 @@
   
 </div>
 
+<!--Contact Section--> 
+
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
+  
+<a href="mailto:vetrim2003@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="vetrim2003@gmail.com" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://twitter.com/irtev_m_07" target="_blank">
+<img src="./twitter.png" width=50 height=50 alt="irtev_m_07" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/irtev_m_07" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="irtev_m_07" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.githubcom/Vetrivel07" target="_blank">
+<img src="./github.png" width=50 height=50 alt="Vetrivel07" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/vetrivel-maheswaran/" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="Vetrivel-maheswaran" style="margin-bottom: 5px;" />
+</a>
+</div>
+<br/>
+
 **Visitors Count** 
 
 ![VisitorCount](https://profile-counter.glitch.me/{Vetrivel07}/count.svg) </div>
