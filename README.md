@@ -2,12 +2,12 @@
 <br>
 ## About me:
  <h4> 🎓 Computer Science and Engineering graduate at R.M.K.Engineering College </h4>
- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity. <br>
- ✍️ Eager to contribute my technical skills and creativity to real-world projects. <br> 
- ✨ Enthusiastic about exploring new technologies and staying updated with industry trends. <br> 
- 💭 Committed to continuous learning and excited to embark on a journey in the world of technology.<br>
- 💻 Visit my [Portfolio](https://vetrivel07.github.io/vetrivel-m-portfolio/) for more details about me.<br><br><br>
-
+ <h4> 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity. </h4>
+ <h4> ✍️ Eager to contribute my technical skills and creativity to real-world projects.</h4> 
+ <h4> ✨ Enthusiastic about exploring new technologies and staying updated with industry trends.</h4>
+ <h4> 💭 Committed to continuous learning and excited to embark on a journey in the world of technology. </h4>
+ <h4> 💻 Visit my [Portfolio](https://vetrivel07.github.io/vetrivel-m-portfolio/) for more details about me. </h4>
+<br>
   <div>
    
 <h2 align="center"> Stacks I work with </h2>
