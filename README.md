@@ -33,7 +33,7 @@
   &nbsp;
  </p> </p>
 
-## Git Activity
+<h2 align="center">Git Activity </h2>
  
 <div align="center" width=100%>
 
