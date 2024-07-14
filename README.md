@@ -6,7 +6,7 @@
  ✍️ Eager to contribute my technical skills and creativity to real-world projects. <br> 
  ✨ Enthusiastic about exploring new technologies and staying updated with industry trends. <br> 
  💭 Committed to continuous learning and excited to embark on a journey in the world of technology.<br>
- 💻 Visit my [Portfolio](https://vetrivel07.github.io/vetrivel-m-portfolio/) for more details about me.<br>
+ 💻 Visit my [Portfolio](https://vetrivel07.github.io/vetrivel-m-portfolio/) for more details about me.<br><br><br>
 
   <div>
    
@@ -87,7 +87,7 @@
 </div>
 <br/>
 
-**Visitors Count** 
+<h2 align="center">Visitors Count </h2>
 
 ![VisitorCount](https://profile-counter.glitch.me/{Vetrivel07}/count.svg) </div>
 
