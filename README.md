@@ -82,7 +82,7 @@
 <img src="./instagram.png" width=50 height=50 alt="irtev_m_07" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.githubcom/Vetrivel07" target="_blank">
+<a href="https://github.com/Vetrivel07" target="_blank">
 <img src="./github.png" width=50 height=50 alt="Vetrivel07" style="margin-bottom: 5px;" />
 </a>
 
