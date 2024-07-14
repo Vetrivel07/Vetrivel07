@@ -1,4 +1,4 @@
-![Black Creative Professional Photographer Online Portfolio](https://github.com/user-attachments/assets/ddfd13af-0c95-45de-944e-91ee32e6c765)
+![Creative Professional Online Portfolio](https://github.com/user-attachments/assets/ddfd13af-0c95-45de-944e-91ee32e6c765)
 <br>
 ## About me:
  🎓 Computer Science and Engineering graduate at R.M.K.Engineering College <br> 
@@ -14,8 +14,8 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/irtev_m_07) 
   <br/>
   <div>
-𝐒𝐭𝐚𝐜𝐤𝐬 𝐈 𝐰𝐨𝐫𝐤 𝐰𝐢𝐭𝐡:
-
+   
+## 𝐒𝐭𝐚𝐜𝐤𝐬 𝐈 𝐰𝐨𝐫𝐤 𝐰𝐢𝐭𝐡:
 
 <p  align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
@@ -34,7 +34,7 @@
  </p> </p>
 <div align="center" width=100%>
 
-### Git Activity
+## Git Activity
 
 <br/>
 
