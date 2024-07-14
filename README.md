@@ -5,8 +5,8 @@
  🌱 I’m currently learning many things, I believe that everyday is a learning opportunity. <br>
  ✍️ Eager to contribute my technical skills and creativity to real-world projects. <br> 
  ✨ Enthusiastic about exploring new technologies and staying updated with industry trends. <br> 
- 💭 Committed to continuous learning and excited to embark on a journey in the world of technology.<br><br> 
- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.<br>
+ 💭 Committed to continuous learning and excited to embark on a journey in the world of technology.<br>
+ 💻 Visit my [Portfolio](https://vetrivel07.github.io/vetrivel-m-portfolio/) for more details about me.<br>
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/irtev_m_07/) 
