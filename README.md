@@ -32,9 +32,10 @@
   
   &nbsp;
  </p> </p>
-<div align="center" width=100%>
 
 ## Git Activity
+ 
+<div align="center" width=100%>
 
 <br/>
 
