@@ -1,7 +1,7 @@
 ![Creative Professional Online Portfolio](https://github.com/user-attachments/assets/ddfd13af-0c95-45de-944e-91ee32e6c765)
 <br>
 ## About me:
- 🎓 Computer Science and Engineering graduate at R.M.K.Engineering College <br> 
+ <h4> 🎓 Computer Science and Engineering graduate at R.M.K.Engineering College </h4><br> 
  🌱 I’m currently learning many things, I believe that everyday is a learning opportunity. <br>
  ✍️ Eager to contribute my technical skills and creativity to real-world projects. <br> 
  ✨ Enthusiastic about exploring new technologies and staying updated with industry trends. <br> 
