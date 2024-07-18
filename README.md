@@ -59,7 +59,7 @@
   
 <br/>
 
-![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vetrivel07&show_icons=true&theme=radical)
+![Vetrivel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vetrivel07&show_icons=true&theme=radical)
   
 <br/>
   
