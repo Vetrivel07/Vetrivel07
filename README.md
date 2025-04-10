@@ -1,9 +1,9 @@
 <div align="center">
 <img src="https://github.com/user-attachments/assets/6f97b4b9-1f77-4713-8cd4-7f340a7d16a9" style="width:1000px; height:auto;" />
-</div><br>
+</div><br><br><br>
 <div align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=7E3ACE&size=50&center=true&vCenter=true&width=900&lines=I'm+Vetrivel+Maheswaran;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=56&pause=1000&vCenter=true&center=true&width=1000&lines=I'm+Vetrivel+Maheswaran;Computer+Engineering+Student&color=8A2BE2;I'm+Vetrivel+Maheswaran;Computer+Science+Graduate;Data+Analyst;Data+Enthusiast&color=00BFFF" alt="Typing SVG" />
 </a>
 </div>
 <br>
