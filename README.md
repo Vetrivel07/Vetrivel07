@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/2f9fdb85-3077-48be-b81d-230bfb493dd8" style="width:1000px; height:auto;" />
+<img src="https://github.com/user-attachments/assets/6f97b4b9-1f77-4713-8cd4-7f340a7d16a9" style="width:1000px; height:auto;" />
 </div><br>
 <div align="center">
 <a href="https://git.io/typing-svg">
