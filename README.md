@@ -1,6 +1,11 @@
-![Profile Background](https://github.com/user-attachments/assets/473f3d9c-cbc8-4d61-a574-f1a79eccbed9)
-
-
+<div align="center">
+<img src="https://github.com/user-attachments/assets/2f9fdb85-3077-48be-b81d-230bfb493dd8" style="width:1000px; height:auto;" />
+</div><br>
+<div align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=7E3ACE&size=50&center=true&vCenter=true&width=900&lines=I'm+Vetrivel+Maheswaran;" alt="Typing SVG" />
+</a>
+</div>
 <br>
 
 ## About me:
@@ -107,3 +112,37 @@
 
 <p align="center"><b>© Created by Vetrivel Maheswaran</b></p?
 
+<img alt="github contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
+
+
+<h2>:busts_in_silhouette: How to reach me</h2>
+<div align="center">
+<a href="https://github.com/Vetrivel07">
+    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Vetrivel07?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@Vetrivel07" height="22px">
+</a>
+<a href="https://codepen.io/Carol42">
+    <img alt="link to my CodePen" src="https://img.shields.io/static/v1?label&message=/Carol42&color=000000&style=for-the-badge&logo=codepen" height="22px" />
+</a>
+<a href="https://linkedin.com/in/carol42">
+    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/carol42&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
+</a>
+<a href="https://twitter.com/carol42helo/">
+    <img alt="Link to my Twitter" src="https://img.shields.io/static/v1?style=for-the-badge&label&message=@carol42helo&color=000&logo=x" height="22px">
+</a>
+</a>
+<a href="mailto:carol42.helo@gmail.com">
+    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=carol42.helo@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
+</a>
+</div>
+
+<h2>:book: Guestbook</h2>
+<p>Leave a cool message for me or just say you passed by <a href="https://github.com/Vetrivel07/Vetrivel07/issues/new?template=guestbook-entry.md">here</a>!</p>
+
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
+    </a>
+</div>
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
+<div align="center" ><img alt="" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/footer.png"></div>
