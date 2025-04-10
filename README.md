@@ -121,18 +121,18 @@
 <a href="https://github.com/Vetrivel07">
     <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Vetrivel07?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@Vetrivel07" height="22px">
 </a>
-<a href="https://codepen.io/Carol42">
+<a href="https://codepen.io/">
     <img alt="link to my CodePen" src="https://img.shields.io/static/v1?label&message=/Carol42&color=000000&style=for-the-badge&logo=codepen" height="22px" />
 </a>
-<a href="https://linkedin.com/in/carol42">
-    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/carol42&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
+<a href="https://linkedin.com/in/vetrivel-maheswaran">
+    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/Vetrivel-maheswaran&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
 </a>
-<a href="https://twitter.com/carol42helo/">
-    <img alt="Link to my Twitter" src="https://img.shields.io/static/v1?style=for-the-badge&label&message=@carol42helo&color=000&logo=x" height="22px">
+<a href="https://twitter.com/irtev_m_07/">
+    <img alt="Link to my Twitter" src="https://img.shields.io/static/v1?style=for-the-badge&label&message=@Vetrivel&color=000&logo=x" height="22px">
 </a>
 </a>
-<a href="mailto:carol42.helo@gmail.com">
-    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=carol42.helo@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
+<a href="mailto:vetrim2003@gmail.com">
+    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=vetrim2003@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
 </a>
 </div>
 
