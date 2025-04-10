@@ -6,6 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=56&pause=50&vCenter=true&center=true&width=800&lines=I'm+Vetrivel+Maheswaran;Computer+Science+Graduate;Data+Analyst;Data+Enthusiast&color=8A2BE2;I'm+Vetrivel+Maheswaran;Computer+Science+Graduate;Data+Analyst;Data+Enthusiast&color=00BFFF" alt="Typing SVG" style="max-width: 100%; height: auto;"  />
 </a>
 </div>
+
 <br>
 
 ## About me:
