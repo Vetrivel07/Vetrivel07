@@ -9,22 +9,26 @@
 
 <br>
 
-## About me:
- <h4> 🎓 Computer Science and Engineering graduate at R.M.K.Engineering College </h4>
- <h4> 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity. </h4>
- <h4> ✍️ Eager to contribute my technical skills and creativity to real-world projects.</h4> 
- <h4> ✨ Enthusiastic about exploring new technologies and staying updated with industry trends.</h4>
- <h4> 💭 Committed to continuous learning and excited to embark on a journey in the world of technology. </h4>
- 
- <h4> 
-  
-  💻 Visit my [Portfolio](https://vetrivel07.github.io/vetrivel-maheswaran/) for more details about me.
- 
- </h4>
+## 🚀 About me:
+
+🎓 Master's Student at **Rochester Institute of Technology**, majoring in **Information Technology and Analytics** <br>
+🌱 Passionate about **Data Science, Machine Learning, and Visualization Tools** <br>
+💡 I enjoy building **intelligent systems** that solve real-world problems. <br>
+💬 Let's talk about **Python, ML, Data Analysis, or cool project ideas!** <br>
+📬 Reach me at: **<a href = "mailto:vetrim2003@gmail.com">Gmail</a>**
 <br>
+
+<h2>:books: My personal portfolio</h2>
+<div align="center">
+<a href="https://vetrivel07.github.io/vetrivel-maheswaran/">
+    <img alt="link to my portfolio" src="https://img.shields.io/static/v1?label&message=open+portfolio&color=7E3ACE&style=for-the-badge" />
+</a>
+</div>
+</br></br>
+  
   <div>
    
-<h2 align="center"> Stacks I work with </h2>
+<h2> 🛠️ Stacks I work with </h2>
 
 <p  align="center">
  <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
@@ -111,30 +115,6 @@
 
 ![VisitorCount](https://profile-counter.glitch.me/{Vetrivel07}/count.svg) </div>
 
-<p align="center"><b>© Created by Vetrivel Maheswaran</b></p?
-
-<img alt="github contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
-
-
-<h2>:busts_in_silhouette: How to reach me</h2>
-<div align="center">
-<a href="https://github.com/Vetrivel07">
-    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Vetrivel07?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@Vetrivel07" height="22px">
-</a>
-<a href="https://codepen.io/">
-    <img alt="link to my CodePen" src="https://img.shields.io/static/v1?label&message=/Carol42&color=000000&style=for-the-badge&logo=codepen" height="22px" />
-</a>
-<a href="https://linkedin.com/in/vetrivel-maheswaran">
-    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/Vetrivel-maheswaran&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
-</a>
-<a href="https://twitter.com/irtev_m_07/">
-    <img alt="Link to my Twitter" src="https://img.shields.io/static/v1?style=for-the-badge&label&message=@Vetrivel&color=000&logo=x" height="22px">
-</a>
-</a>
-<a href="mailto:vetrim2003@gmail.com">
-    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=vetrim2003@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
-</a>
-</div>
 
 <h2>:book: Guestbook</h2>
 <p>Leave a cool message for me or just say you passed by <a href="https://github.com/Vetrivel07/Vetrivel07/issues/new?template=guestbook-entry.md">here</a>!</p>
@@ -146,4 +126,5 @@
 </div>
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
-<div align="center" ><img alt="" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/footer.png"></div>
+<div align="center" ><img alt="" width="100%" src="https://github.com/user-attachments/assets/1f01585b-12e7-4d23-9ed1-5cc72060ffab"></div>
+
