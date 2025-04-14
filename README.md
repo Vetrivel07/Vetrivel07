@@ -37,17 +37,18 @@
  <img width="48" height="48" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
+<img width="48" height="48" src="https://img.icons8.com/nolan/64/javascript-logo.png" alt="JS"/>
   
  </p>
  <p  align="center">
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
- <img width="48" height="48" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="pycharm--v1"/>
- <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
-  
-<img width="50" height="50" src="https://img.icons8.com/ios/50/flask.png" alt="flask"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
+<img width="50" height="50" src="https://img.icons8.com/nolan/64/flask.png" alt="flask"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/tensorflow.png" alt="tensorflow"/>
 
   &nbsp;
  </p> </p>
@@ -59,7 +60,15 @@
 <br/>
 
 <div align="center">
+
+![Vetrivel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vetrivel07&show_icons=true&theme=radical)
   
+<br/>
+
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vetrivel07&layout=compact&theme=radical)
+  
+<br/>
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vetrivel07&theme=github_dark)
   
 <br/>
@@ -73,14 +82,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vetrivel07&theme=github_dark)
   
 <br/>
-
-[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vetrivel07&layout=compact&theme=radical)]
-  
-<br/>
-
-![Vetrivel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vetrivel07&show_icons=true&theme=radical)
-  
-<br/>
   
 </div>
 
@@ -91,23 +92,20 @@
   
 <a href="mailto:vetrim2003@gmail.com" target="_blank">
 <img src="./gmail.png" width=50 height=50 alt="vetrim2003@gmail.com" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://twitter.com/irtev_m_07" target="_blank">
-<img src="./twitter.png" width=50 height=50 alt="irtev_m_07" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.instagram.com/irtev_m_07" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="irtev_m_07" style="margin-bottom: 5px;" />
-</a>
+</a> &nbsp;  &nbsp;
 
 <a href="https://github.com/Vetrivel07" target="_blank">
 <img src="./github.png" width=50 height=50 alt="Vetrivel07" style="margin-bottom: 5px;" />
-</a>
+</a> &nbsp;  &nbsp;
 
 <a href="https://www.linkedin.com/in/vetrivel-maheswaran/" target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="Vetrivel-maheswaran" style="margin-bottom: 5px;" />
-</a>
+</a> &nbsp;  &nbsp;
+
+<a href="https://twitter.com/irtev_m_07" target="_blank">
+<img src="./twitter.png" width=50 height=50 alt="irtev_m_07" style="margin-bottom: 5px;" />
+</a> &nbsp;  &nbsp;
+
 </div>
 <br/>
 
@@ -116,8 +114,14 @@
 ![VisitorCount](https://profile-counter.glitch.me/{Vetrivel07}/count.svg) </div>
 
 
-<h2>:book: Guestbook</h2>
-<p>Leave a cool message for me or just say you passed by <a href="https://github.com/Vetrivel07/Vetrivel07/issues/new?template=guestbook-entry.md">here</a>!</p>
+<h2 align="center">:book: Guestbook</h2>
+
+<div align="center">
+<p>Leave a cool message for me or just say you passed by</p>
+<a href="https://github.com/Vetrivel07/Vetrivel07/issues/new?template=guestbook-entry.md">
+    <img alt="Drop a Message" src="https://img.shields.io/static/v1?label&message=Drop+a+Message&color=7E3ACE&style=for-the-badge" />
+</a>
+</div></br></br></br></br>
 
 <div align="center">
     <a href="https://git.io/typing-svg">
@@ -127,4 +131,5 @@
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
 <div align="center" ><img alt="" width="100%" src="https://github.com/user-attachments/assets/1f01585b-12e7-4d23-9ed1-5cc72060ffab"></div>
-
+</br></br>
+<p align="center"><i>© Created by Vetrivel Maheswaran</i></p>
