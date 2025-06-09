@@ -12,7 +12,7 @@
 ## 🚀 About me:
 
 🎓 Master's Student at **Rochester Institute of Technology**, majoring in **Information Technology and Analytics** <br>
-🌱 Passionate about **Data Science, Machine Learning, and Visualization Tools** <br>
+🌱 Passionate about **AI and Data Science** <br>
 💡 I enjoy building **intelligent systems** that solve real-world problems. <br>
 💬 Let's talk about **Python, ML, Data Analysis, or cool project ideas!** <br>
 📬 Reach me at: **<a href = "mailto:vetrim2003@gmail.com">Gmail</a>**
