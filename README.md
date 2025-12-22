@@ -20,7 +20,7 @@
 
 <h2>:books: My personal portfolio</h2>
 <div align="center">
-<a href="https://vetrivel07.github.io/vetrivel-maheswaran/">
+<a href="https://vetrivel-maheswaran.onrender.com/contact.html">
     <img alt="link to my portfolio" src="https://img.shields.io/static/v1?label&message=open+portfolio&color=7E3ACE&style=for-the-badge" />
 </a>
 </div>
