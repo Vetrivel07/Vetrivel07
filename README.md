@@ -179,10 +179,6 @@ Role-based full-stack platform with authenticated dashboards and REST API backen
 
 <br/>
 
-![Top Languages](./profile/langs.svg)
-
-<br/>
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vetrivel07&theme=radical&hide_border=true)
 
 <br/>
