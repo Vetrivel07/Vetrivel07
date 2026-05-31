@@ -175,11 +175,11 @@ Role-based full-stack platform with authenticated dashboards and REST API backen
 
 <div align="center">
 
-![Vetrivel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vetrivel07&show_icons=true&theme=radical)
+![Vetrivel's GitHub stats](./profile/stats.svg)
 
 <br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vetrivel07&layout=compact&theme=radical&hide_border=true)
+![Top Languages](./profile/langs.svg)
 
 <br/>
 
