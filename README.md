@@ -52,36 +52,6 @@ I build production-grade **data pipelines**, **LLM-powered agents**, and **RAG s
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔷 [Hybrid Vector–Graph Retrieval for Evidence-Grounded RAG](https://github.com/Vetrivel07)
-> Python · FastAPI · FAISS · Neo4j · OpenAI · BGE-M3
-
-Built a hybrid retrieval system combining FAISS dense search with Neo4j graph traversal for multi-hop reasoning. Significantly reduced unsupported claim rate vs. vector-only baseline. Improved citation precision via graph-weighted vector similarity.
-
----
-
-### 🔷 [Cache-Aware MapReduce Framework for Distributed Embedding Generation](https://github.com/Vetrivel07)
-> Python · Redis · SentenceTransformers · OpenAI · Cohere
-
-SHA256 content-hash deduplication with shared Redis cache eliminated **100% of redundant embedding calls** on warm runs. Fault-tolerant parallel pipeline achieved **9.6× throughput improvement** over sequential baseline. Model-agnostic plug-in interface supports SentenceTransformers, OpenAI, and Cohere.
-
----
-
-### 🔷 [LinkedIn AI Agent](https://github.com/Vetrivel07)
-> LangChain · MCP · FastAPI · Streamlit · OpenAI · SQLite
-
-Autonomous agent with event-driven task execution and workflow automation. OAuth2 auth + output validation improved API request reliability by **30%**. Structured agent-tool communication via FastAPI.
-
----
-
-### 🔷 [Ticket Management System](https://github.com/Vetrivel07)
-> Python · Flask · MySQL · Jinja2 · REST APIs
-
-Role-based full-stack platform with authenticated dashboards and REST API backend. MySQL-backed ticket lifecycle tracking improved retrieval and update efficiency by **~30%** with real-time queue monitoring.
-
----
-
 ## 🛠️ Tech Stack
 
 **AI & LLM Systems**
