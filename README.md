@@ -1,135 +1,228 @@
 <div align="center">
 <img src="https://github.com/user-attachments/assets/6f97b4b9-1f77-4713-8cd4-7f340a7d16a9" style="width:1000px; height:auto;" />
-</div><br><br><br>
-<div align="center">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=56&pause=50&vCenter=true&center=true&width=800&lines=I'm+Vetrivel+Maheswaran;Computer+Science+Graduate;Data+Analyst;Data+Enthusiast&color=8A2BE2;I'm+Vetrivel+Maheswaran;Computer+Science+Graduate;Data+Analyst;Data+Enthusiast&color=00BFFF" alt="Typing SVG" style="max-width: 100%; height: auto;"  />
-</a>
 </div>
 
 <br>
 
-## 🚀 About me:
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=800&color=8A2BE2&center=true&vCenter=true&width=800&lines=Data+Engineer+%26+AI+Practitioner;Building+LLM+Agents+%26+RAG+Systems;ETL+Pipelines+%7C+SQL+%7C+Python;MS+%40+RIT+%7C+GPA+4.0%2F4.0;Open+to+US+Full-Time+Roles" alt="Typing SVG" />
+  </a>
+</div>
 
-🎓 Master's Student at **Rochester Institute of Technology**, majoring in **Information Technology and Analytics** <br>
-🌱 Passionate about **AI and Data Science** <br>
-💡 I enjoy building **intelligent systems** that solve real-world problems. <br>
-💬 Let's talk about **Python, ML, Data Analysis, or cool project ideas!** <br>
-📬 Reach me at: **<a href = "mailto:vetrim2003@gmail.com">Gmail</a>**
 <br>
 
-<h2>:books: My personal portfolio</h2>
+---
+
+## 👤 About Me
+
+Hi, I'm **Vetrivel Maheswaran** — a Data Engineer and AI practitioner based in Dayton, NJ.
+
+I build production-grade **data pipelines**, **LLM-powered agents**, and **RAG systems** that bridge reliable data infrastructure with intelligent automation. My work spans food-tech, fintech compliance, and academic AI research.
+
+- 🎓 **MS in Information Technology & Analytics** — Rochester Institute of Technology (GPA: 4.0/4.0)
+- 🛠️ Core stack: **Python · SQL · FastAPI · LangChain · Neo4j · Redis**
+- 🔬 Research: LLM-based security policy generation @ Sungkyunkwan University, South Korea
+- 💼 Experience: Data Engineering · AI Engineering · LLM Systems · Backend APIs
+- 📍 Based in New Jersey | Open to **US Full-Time Roles**
+- 📬 Reach me: [vetrim2003@gmail.com](mailto:vetrim2003@gmail.com) · [LinkedIn](https://linkedin.com/in/vetrivel-maheswaran) · [Portfolio](https://vetrivel-maheswaran.onrender.com)
+
+---
+
+## 🧭 What I Do
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🗄️ Data Engineering
+- End-to-end **ETL/ELT pipeline** design and maintenance
+- **Relational & dimensional data modeling**
+- SQL-driven workflows across MySQL, PostgreSQL, Oracle
+- **Schema design**, query optimization, data quality
+- Multi-source ingestion from Excel, CSV, APIs into structured databases
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI & LLM Systems
+- **RAG pipelines** with hybrid vector–graph retrieval
+- **LLM agent** development with LangChain, MCP, tool calling
+- Prompt engineering, context engineering, output validation
+- **Agentic workflows** with FastAPI orchestration
+- LLM integration for finance, compliance, and research domains
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔷 [Hybrid Vector–Graph Retrieval for Evidence-Grounded RAG](https://github.com/Vetrivel07)
+> Python · FastAPI · FAISS · Neo4j · OpenAI · BGE-M3
+
+Built a hybrid retrieval system combining FAISS dense search with Neo4j graph traversal for multi-hop reasoning. Significantly reduced unsupported claim rate vs. vector-only baseline. Improved citation precision via graph-weighted vector similarity.
+
+---
+
+### 🔷 [Cache-Aware MapReduce Framework for Distributed Embedding Generation](https://github.com/Vetrivel07)
+> Python · Redis · SentenceTransformers · OpenAI · Cohere
+
+SHA256 content-hash deduplication with shared Redis cache eliminated **100% of redundant embedding calls** on warm runs. Fault-tolerant parallel pipeline achieved **9.6× throughput improvement** over sequential baseline. Model-agnostic plug-in interface supports SentenceTransformers, OpenAI, and Cohere.
+
+---
+
+### 🔷 [LinkedIn AI Agent](https://github.com/Vetrivel07)
+> LangChain · MCP · FastAPI · Streamlit · OpenAI · SQLite
+
+Autonomous agent with event-driven task execution and workflow automation. OAuth2 auth + output validation improved API request reliability by **30%**. Structured agent-tool communication via FastAPI.
+
+---
+
+### 🔷 [Ticket Management System](https://github.com/Vetrivel07)
+> Python · Flask · MySQL · Jinja2 · REST APIs
+
+Role-based full-stack platform with authenticated dashboards and REST API backend. MySQL-backed ticket lifecycle tracking improved retrieval and update efficiency by **~30%** with real-time queue monitoring.
+
+---
+
+## 🛠️ Tech Stack
+
+**AI & LLM**
+
+![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-00BFFF?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=flat-square)
+![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-5A0FC8?style=flat-square)
+
+**Data & ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+**Backend & Tools**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=flat-square)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-<a href="https://vetrivel-maheswaran.onrender.com">
-    <img alt="link to my portfolio" src="https://img.shields.io/static/v1?label&message=open+portfolio&color=7E3ACE&style=for-the-badge" />
-</a>
+
+![Vetrivel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vetrivel07&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+<br/>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vetrivel07&layout=compact&theme=radical&hide_border=true)
+
+<br/>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vetrivel07&theme=radical&hide_border=true)
+
+<br/>
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vetrivel07&theme=github_dark)
+
+<br/>
+
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vetrivel07&theme=github_dark)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vetrivel07&theme=github_dark)
+
+<br/>
+
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vetrivel07&theme=github_dark)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vetrivel07&theme=github_dark)
+
 </div>
-</br></br>
-  
-  <div>
-   
-<h2> 🛠️ Stacks I work with </h2>
 
-<p  align="center">
- <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
- <img width="48" height="48" src="https://img.icons8.com/3d-fluency/94/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
- <img width="48" height="48" src="https://img.icons8.com/fluency/48/r-project.png" alt="r-project"/>
- <img width="48" height="48" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
-<img width="48" height="48" src="https://img.icons8.com/nolan/64/javascript-logo.png" alt="JS"/>
-  
- </p>
- <p  align="center">
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="pycharm--v1"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
-<img width="50" height="50" src="https://img.icons8.com/nolan/64/flask.png" alt="flask"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/tensorflow.png" alt="tensorflow"/>
+---
 
-  &nbsp;
- </p> </p>
-
-<h2 align="center">Git Activity </h2>
- 
-<div align="center" width=100%>
-
-<br/>
+## 🤝 Connect With Me
 
 <div align="center">
 
-![Vetrivel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vetrivel07&show_icons=true&theme=radical)
-  
-<br/>
-
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vetrivel07&layout=compact&theme=radical)
-  
-<br/>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vetrivel07&theme=github_dark)
-  
-<br/>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vetrivel07&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vetrivel07&theme=github_dark)
-  
-<br/>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vetrivel07&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vetrivel07&theme=github_dark)
-  
-<br/>
-  
-</div>
-
-<!--Contact Section--> 
-
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
-<div align="center">
-  
 <a href="mailto:vetrim2003@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="vetrim2003@gmail.com" style="margin-bottom: 5px;" />
-</a> &nbsp;  &nbsp;
-
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;
+<a href="https://linkedin.com/in/vetrivel-maheswaran" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;
 <a href="https://github.com/Vetrivel07" target="_blank">
-<img src="./github.png" width=50 height=50 alt="Vetrivel07" style="margin-bottom: 5px;" />
-</a> &nbsp;  &nbsp;
-
-<a href="https://www.linkedin.com/in/vetrivel-maheswaran/" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="Vetrivel-maheswaran" style="margin-bottom: 5px;" />
-</a> &nbsp;  &nbsp;
-
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>&nbsp;
+<a href="https://vetrivel-maheswaran.onrender.com" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>&nbsp;
 <a href="https://twitter.com/irtev_m_07" target="_blank">
-<img src="./twitter.png" width=50 height=50 alt="irtev_m_07" style="margin-bottom: 5px;" />
-</a> &nbsp;  &nbsp;
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
 
 </div>
+
 <br/>
 
-<h2 align="center">Visitors Count </h2>
+---
 
-![VisitorCount](https://profile-counter.glitch.me/{Vetrivel07}/count.svg) </div>
-
-
-<h2 align="center">:book: Guestbook</h2>
+<h2 align="center">📖 Guestbook</h2>
 
 <div align="center">
-<p>Leave a cool message for me or just say you passed by</p>
+<p>Recruiters, collaborators, or just passing by — drop a message!</p>
 <a href="https://github.com/Vetrivel07/Vetrivel07/issues/new?template=guestbook-entry.md">
-    <img alt="Drop a Message" src="https://img.shields.io/static/v1?label&message=Drop+a+Message&color=7E3ACE&style=for-the-badge" />
+    <img alt="Drop a Message" src="https://img.shields.io/static/v1?label&message=Drop+a+Message&color=8A2BE2&style=for-the-badge" />
 </a>
-</div></br></br></br></br>
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+![Visitor Count](https://profile-counter.glitch.me/Vetrivel07/count.svg)
+
+</div>
+
+<br/>
 
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
+        <img alt="thanks for visiting" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+build+something+great+together." />
     </a>
 </div>
 
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
-<div align="center" ><img alt="" width="100%" src="https://github.com/user-attachments/assets/1f01585b-12e7-4d23-9ed1-5cc72060ffab"></div>
-</br></br>
-<p align="center"><i>© Created by Vetrivel Maheswaran</i></p>
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=8A2BE2&style=flat&logo" alt="back to top" /></a></p>
+
+<div align="center">
+<img alt="" width="100%" src="https://github.com/user-attachments/assets/1f01585b-12e7-4d23-9ed1-5cc72060ffab">
+</div>
+
+<p align="center"><i>© Vetrivel Maheswaran</i></p>
