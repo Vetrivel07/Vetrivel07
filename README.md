@@ -1,6 +1,6 @@
-<!-- <div align="center">
+<div align="center">
 <img src="https://github.com/user-attachments/assets/6f97b4b9-1f77-4713-8cd4-7f340a7d16a9" style="width:1000px; height:auto;" />
-</div> -->
+</div>
 
 <br>
 
@@ -21,7 +21,7 @@ Hi, I'm **Vetrivel Maheswaran** — a Data Engineer and AI practitioner based in
 I build production-grade **data pipelines**, **LLM-powered agents**, and **RAG systems** that bridge reliable data infrastructure with intelligent automation. My work spans food-tech, fintech compliance, and academic AI research.
 
 - 🎓 **MS in Information Technology & Analytics** — Rochester Institute of Technology (GPA: 4.0/4.0)
-- 🛠️ Core stack: **Python · SQL · FastAPI · LangChain · Neo4j · Redis**
+- 🛠️ Core stack: **Python · SQL · FastAPI · LangChain · FAISS · Neo4j · Redis · ETL/ELT · Prompt Engineering · OAuth2**
 - 🔬 Research: LLM-based security policy generation @ Sungkyunkwan University, South Korea
 - 💼 Experience: Data Engineering · AI Engineering · LLM Systems · Backend APIs
 - 📍 Based in New Jersey | Open to **US Full-Time Roles**
@@ -90,47 +90,84 @@ Role-based full-stack platform with authenticated dashboards and REST API backen
 
 ## 🛠️ Tech Stack
 
-**AI & LLM**
+**AI & LLM Systems**
 
 ![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Cohere](https://img.shields.io/badge/Cohere-39594D?style=flat-square)
+![BGE-M3](https://img.shields.io/badge/BGE--M3-00BFFF?style=flat-square)
 ![FAISS](https://img.shields.io/badge/FAISS-00BFFF?style=flat-square)
+![Embeddings](https://img.shields.io/badge/Embeddings-5A0FC8?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=flat-square)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=flat-square)
+![Context Engineering](https://img.shields.io/badge/Context_Engineering-6A0DAD?style=flat-square)
+![Tool/Function Calling](https://img.shields.io/badge/Tool%2FFunction_Calling-5A0FC8?style=flat-square)
 ![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-5A0FC8?style=flat-square)
+![LLM Orchestration](https://img.shields.io/badge/LLM_Orchestration-4B0082?style=flat-square)
+![Autonomous Agents](https://img.shields.io/badge/Autonomous_Agents-7B2FBE?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-1C3C3C?style=flat-square)
 
-**Data & ML**
+**Data & ML Pipelines**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ETL/ELT](https://img.shields.io/badge/ETL%2FELT-FF6B35?style=flat-square)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-FF6B35?style=flat-square)
+![Statistical Modeling](https://img.shields.io/badge/Statistical_Modeling-E05C00?style=flat-square)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
-**Databases**
+**Databases & Engineering**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_SQL%2FPLSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Vector Databases](https://img.shields.io/badge/Vector_Databases-00BFFF?style=flat-square)
+![Query Optimization](https://img.shields.io/badge/Query_Optimization-336791?style=flat-square)
+![Schema Design](https://img.shields.io/badge/Schema_Design-4479A1?style=flat-square)
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-003B57?style=flat-square)
+
+**Programming & Systems**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Type Hints](https://img.shields.io/badge/Type_Hints-3776AB?style=flat-square&logo=python&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-5C6BC0?style=flat-square)
+![Asyncio](https://img.shields.io/badge/Asyncio-3776AB?style=flat-square)
+![Multithreading](https://img.shields.io/badge/Multithreading-5C6BC0?style=flat-square)
+![ASGI/WSGI](https://img.shields.io/badge/ASGI%2FWSGI-009688?style=flat-square)
+![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=flat-square)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
 **Backend & Tools**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=flat-square)
+![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-005571?style=flat-square)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=flat-square)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![TIDAL Scheduler](https://img.shields.io/badge/TIDAL_Scheduler-1A1A2E?style=flat-square)
+![Gephi](https://img.shields.io/badge/Gephi-9932CC?style=flat-square)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
 
 ---
 
