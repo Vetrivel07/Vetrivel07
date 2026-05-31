@@ -1,10 +1,4 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/6f97b4b9-1f77-4713-8cd4-7f340a7d16a9" style="width:1000px; height:auto;" />
-</div>
-
-<br>
-
-<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=800&color=8A2BE2&center=true&vCenter=true&width=800&lines=Data+Engineer+%26+AI+Practitioner;Building+LLM+Agents+%26+RAG+Systems;ETL+Pipelines+%7C+SQL+%7C+Python;MS+%40+RIT+%7C+GPA+4.0%2F4.0;Open+to+US+Full-Time+Roles" alt="Typing SVG" />
   </a>
@@ -240,7 +234,7 @@ Role-based full-stack platform with authenticated dashboards and REST API backen
 
 <div align="center">
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=Vetrivel07&label=Profile%20Views&color=6&icon=0&pretty=true)
+![](https://komarev.com/ghpvc/?username=Vetrivel07&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
 
