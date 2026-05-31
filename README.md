@@ -240,7 +240,7 @@ Role-based full-stack platform with authenticated dashboards and REST API backen
 
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/Vetrivel07/count.svg)
+![Visitor Count](https://visitcount.itsvg.in/api?id=Vetrivel07&label=Profile%20Views&color=6&icon=0&pretty=true)
 
 </div>
 
