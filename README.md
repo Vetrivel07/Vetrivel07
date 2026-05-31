@@ -21,7 +21,7 @@ Hi, I'm **Vetrivel Maheswaran** — a Data Engineer and AI practitioner based in
 I build production-grade **data pipelines**, **LLM-powered agents**, and **RAG systems** that bridge reliable data infrastructure with intelligent automation. My work spans food-tech, fintech compliance, and academic AI research.
 
 - 🎓 **MS in Information Technology & Analytics** — Rochester Institute of Technology (GPA: 4.0/4.0)
-- 🛠️ Core stack: **Python · SQL · FastAPI · LangChain · FAISS · Neo4j · Redis · ETL/ELT · Prompt Engineering · OAuth2**
+- 🛠️ Core stack: **API Developer · LLM Systems Integration · Data Engineer · RAG & Agentic Workflows · SQL & Database Engineering**
 - 🔬 Research: LLM-based security policy generation @ Sungkyunkwan University, South Korea
 - 💼 Experience: Data Engineering · AI Engineering · LLM Systems · Backend APIs
 - 📍 Based in New Jersey | Open to **US Full-Time Roles**
@@ -175,7 +175,7 @@ Role-based full-stack platform with authenticated dashboards and REST API backen
 
 <div align="center">
 
-![Vetrivel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vetrivel07&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![Vetrivel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vetrivel07&show_icons=true&theme=radical&hide_border=true)
 
 <br/>
 
